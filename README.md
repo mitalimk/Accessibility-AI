@@ -12,4 +12,4 @@ npm run dev
 # or pnpm dev
 # or bun dev
 
-**Live Preview** :-  https://hack-jgb08eym4-mrunalkulkarni1978-gmailcoms-projects.vercel.app 
+**Live Preview** :-  https://hack-jgb08eym4-mrunalkulkarni1978-gmailcoms-projects.vercel.app
